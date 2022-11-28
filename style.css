@@ -90,6 +90,7 @@ img:hover {
 hr {
   margin: 0 1.4rem 0 1.4rem;
   width: 15rem;
+  height: 0.1px;
   color: hsl(215, 32%, 27%);
 }
 
